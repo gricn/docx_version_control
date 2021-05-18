@@ -1,0 +1,8 @@
+# put this file to ~ folder
+# refer to this website: https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files
+
+[diff "pandoc"]
+textconv=pandoc --to=markdown
+prompt = false
+[alias]
+wdiff = diff HEAD~ HEAD
