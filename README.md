@@ -9,4 +9,4 @@
 
 ## References
 
-https://front-matter.io/mfenner/using-microsoft-word-with-git
+https://blog.front-matter.io/posts/using-microsoft-word-with-git/
